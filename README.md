@@ -1,2 +1,2 @@
 # Simulation-Based-Inference
-SBI methods applied to LV model and SNF.
+SBI methods applied to Lotka-Volterra and Centred Erdos-Renyi models.
